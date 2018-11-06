@@ -16,7 +16,7 @@ ode according to the retrieved js address.
 
 1) Copy VerifySDK.jar to the libs directory and associate it to the project.
 
-  [Android-SDK下载](https://mc.qcloudimg.com/static/archive/48720dad0a66293a8837a60b88ceef4e/archive.zip)
+   [Android-SDK下载](https://mc.qcloudimg.com/static/archive/48720dad0a66293a8837a60b88ceef4e/archive.zip)
 
 2) Add a statement if AndroidManifest.xml does not declare the following permissions
 
@@ -76,8 +76,7 @@ public void setShowtitle(boolean showtitle)     //是否显示验证码页面标
 Public void setJson(String json)                //用于扩展参数，如实现自定义样式等
 public WebView getWebView(Context context,String jsurl,VerifyListener listener) //获取验证码WebView
 ```
+
 ## 4、My Demo "SlideVerify" introduction
-```
-```
-```
-```
+
+The calling interface of this API is the most difficult part of my video streaming program. It is also often asked during interviews. Due to the need for confidentiality of the project, only the core interface functions can be exposed.
