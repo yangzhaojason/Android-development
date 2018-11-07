@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VerifyDemo</string>
+    <string name="btn_fullscreen">确定</string>
+    <string name="btn_popup">使用弹框验证码</string>
+</resources>
